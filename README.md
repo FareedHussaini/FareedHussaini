@@ -1,6 +1,6 @@
 <h1>Hi, I'm Fareed! <br/><a href="https://github.com/FareedHussaini"> <a href="https://www.linkedin.com/in/fareed-hussaini/">Cybersecurity Professional</a></h1>
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+
 
 <h2>🥇 Certifications</h2>
 
@@ -8,7 +8,9 @@
 - [CompTIA Security+]()
 - [CompTIA Network+]()
 - [Certified Information Systems Security Professional (CISSP) - Pursuing]()
-- 
+  
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
 - <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
   - [Microsoft Azure: SIEM & SOAR]()
 - <b>Active Directory Home Lab</b>
