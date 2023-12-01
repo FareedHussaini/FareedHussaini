@@ -5,36 +5,37 @@
 - <b>Automation of Pentesting Port Scanner Project</b>
   - [Automation of Port Scanning Pentesting Project](https://github.com/FareedHussaini/Automation-of-Port-Scanning-Pentesting-Project/blob/main/README.md)
 - <b>Automation of Pentesting NMP Scanner Project</b>
-  - [Automation of NMP Pentesting Project](https://github.com/anwarsyed1/automated-nmp-scanner)
+  - [Automation of NMP Pentesting Project]()
 - <b>Automation of Cybersecurity News Project</b>
-  - [Automation of Cybersecurity News](https://github.com/anwarsyed1/Automation-of-Cybersecurity-News-with-Scripts)
+  - [Automation of Cybersecurity News]()
 - <b>Automation of Cybersecurity CVE List Generator Project</b>
-  - [Automation of Cybersecurity CVE (Common Vulnerabilities and Exposures) List Generator Project](https://github.com/anwarsyed1/Automation-of-CVE-List)
+  - [Automation of Cybersecurity CVE ()
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
-  - [Microsoft Azure: SIEM & SOAR](https://github.com/anwarsyed1/MicrosoftAzureSentinental-SIEM-)
+  - [Microsoft Azure: SIEM & SOAR]()
 - <b>Active Directory Home Lab</b>
-  - [Active Directory](https://github.com/anwarsyed1/Active-Directory-Project)
+  - [Active Directory]()
 - <b>Nessus Essential Vulnerability Management Project</b>
-  - [Nessus Essential Vulnerability Management](https://github.com/anwarsyed1/VulnerabilityManagement-NessusEssentials)
+  - [Nessus Essential Vulnerability Management]()
 
 <h2>🖥️ Software/Application Security Projects:</h2>
 
 - <b>REST API for Medical Clinic with Node JS and Express Project</b>
-  - [REST API with Node JS and Express](https://github.com/anwarsyed1/REST-API-with-Node-JS-Express)
+  - [REST API with Node JS and Express]()
 - <b>AWS Web Application Security using DVWA Project</b>
-  - [AWS Web Application Security using DVWA (Damn Vulnerable Web Application) Project](https://github.com/anwarsyed1/AWS-Web-Application-Security-DVWA-Lab)
+  - [AWS Web Application Security using DVWA (Damn Vulnerable Web Application) Project]()
   
 <h2>📱 Mobile App Development Projects:</h2>
 
 - <b>Food Delivery Application using Kotlin/HTML/CSS Project</b>
-  - [Android Studio: Omeal](https://youtu.be/1oL-4Zecd7Q)
+  - [Android Studio: Omeal]()
 
 <h2>🥇 Certifications</h2>
 
-- [IBM Cloud Security Engineer](https://github.com/anwarsyed1/IBM-Cloud-Security-Engineer-Cert-)
-- [Microsoft Certified: Azure Fundamentals]()
-- [AWS Certified Cloud Practitioner]()
+- [ITIL® v4 Foundation]()
+- [CompTIA Security+]()
+- [CompTIA Network+]()
+- [Certified Information Systems Security Professional (CISSP) - Pursuing]()
