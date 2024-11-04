@@ -4,7 +4,7 @@
 
 <h2>🥇 Certifications</h2>
 
-- [ITIL® v4 Foundation]()
+- [ITIL® v4 Foundation - Pursuing]()
 - [CompTIA Security+]()
 - [CompTIA Network+]()
 - [Certified Information Systems Security Professional (CISSP) - Pursuing]()
