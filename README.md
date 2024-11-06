@@ -17,7 +17,7 @@
 - <b>Microsoft Azure: SIEM & SOAR HoneyPot Project</b>
   - [Microsoft Azure: SIEM & SOAR](https://github.com/FareedHussaini/Microsoft-Azure-SIEM-SOAR)
 - <b>Active Directory Home Lab</b>
-  - [Active Directory](https://github.com/anwarsyed1/Active-Directory-Project)
+  - [Active Directory](https://github.com/FareedHussaini/Active-Directory-Project)
 - <b>Nessus Essential Vulnerability Management Project</b>
   - [Nessus Essential Vulnerability Management](https://github.com/anwarsyed1/VulnerabilityManagement-NessusEssentials)
 
