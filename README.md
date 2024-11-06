@@ -19,7 +19,7 @@
 <h2>🔁 Automations Using Script Projects:</h2>
   
 - <b>Automation of Pentesting Port Scanner Project</b>
-  - [Automation of Port Scanning Pentesting Project](https://github.com/anwarsyed1/Automation-of-Port-Scanning-Pentesting-Project)
+  - [Automation of Port Scanning Pentesting Project](https://github.com/FareedHussaini/Automation-of-Pentesting-Port-Scanner-Project)
 - <b>Automation of Pentesting NMP Scanner Project</b>
   - [Automation of NMP Pentesting Project](https://github.com/anwarsyed1/automated-nmp-scanner)
 - <b>Automation of Cybersecurity News Project</b>
