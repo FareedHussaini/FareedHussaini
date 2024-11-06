@@ -16,7 +16,7 @@
 - [CompTIA Network+]()
 - [Google Cybersecurity Professional Certification]()
 
-- <h2>🔁 Automations Using Script Projects:</h2>
+<h2>🔁 Automations Using Script Projects:</h2>
   
 - <b>Automation of Pentesting Port Scanner Project</b>
   - [Automation of Port Scanning Pentesting Project](https://github.com/anwarsyed1/Automation-of-Port-Scanning-Pentesting-Project)
