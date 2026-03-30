@@ -13,7 +13,6 @@
 <h2>🥇 Certifications</h2>
 
 - [CompTIA Security+]()
-- [CompTIA Network+]()
 - [Google Cybersecurity Professional Certification]()
 
 <h2>🔁 Automations Using Script Projects:</h2>
